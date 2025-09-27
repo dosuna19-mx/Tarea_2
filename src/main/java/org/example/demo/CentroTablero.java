@@ -8,7 +8,7 @@ import javafx.scene.control.Button;
 import javafx.scene.layout.HBox;
 import javafx.scene.layout.VBox;
 
-public class CentroTablero extends VBox { // Cambiar de HBox a VBox
+public class CentroTablero extends VBox {
     private DadoUI dadoUI1;
     private DadoUI dadoUI2;
     private DadoUI dadoUI3;
